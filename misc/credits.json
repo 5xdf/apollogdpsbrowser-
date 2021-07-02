@@ -1,0 +1,48 @@
+{
+    "credits": [
+        {
+            "header": "Programming/Website",
+            "name": "Electro",
+            "youtube": ["https://www.youtube.com/channel/UCbQzYJzvlmdtzgEgSTgwKAA", "youtube"],
+            "twitter": ["https://twitter.com/PoweredByElectr", "twitter"],
+            "github": ["https://github.com/ElectroFlameOfficial", "github"]
+        },
+
+        {
+            "header": "Owner",
+            "name": "Derpxdxz",
+            "youtube": ["https://www.youtube.com/channel/UCBdU7f-wRHhYSecSU3NARng", "youtube"],
+            "twitter": ["https://twitter.com/FAlwaisi", "twitter"],
+            "github": ["https://github.com/", "github"]
+        },
+
+        {
+            "header": "Hosting Support",
+            "name": "GoolaGD",
+            "youtube": ["https://youtube.com/", "youtube"],
+            "twitter": ["https://twitter.com/", "twitter"],
+            "github": ["https://github.com/", "github"]
+        },
+
+        {
+            "header": "Everything Else",
+            "name": "RobTop",
+            "youtube": ["https://youtube.com/channel/UCz_yk8mDSAnxJq0ar66L4sw", "youtube"],
+            "twitter": ["https://twitter.com/RobTopGames", "twitter"],
+            "github": ["https://twitch.tv/RobTopGames", "twitch"]
+        }
+    ],
+
+    "specialThanks": [
+        "AlFas",
+        "Cvolton",
+        "Figment/FigmentBoy",
+        "Qufy",
+        "Ucrash",
+        "ViPriN",
+        "Wylie/TheWylieMaster",
+        "zmxmx",
+        "101arrowz",
+        "Altenhh"
+    ]
+}
